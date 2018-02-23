@@ -1,0 +1,35 @@
+/*Author: Khihady Sucahyo */
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+input:not(.exc){
+  text-align: center;
+}
+
+html {
+   font-family: GillSans, Calibri, Trebuchet, sans-serif;
+   font-size: 17px;
+ }
+
+.putih-text li a{
+  color: white;
+ }
+
+ footer{
+ margin-bottom: 0;
+ bottom: 0;
+ position: fixed;
+ width: 100%;
+ height: 70px;
+ }
+
+ body{
+ margin-bottom: 95px;
+ }
